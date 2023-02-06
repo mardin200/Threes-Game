@@ -4,6 +4,7 @@ The codes are written based on Python 3 and do not require any dependencies to r
 
 A sample input is given in the code but It is possible to receive inputs from the console.
 The inputs include the following in order:
+
 N: An integer that represents the dimensions of the game table.
 start_state: A nested matrix that defines the initial state of the game.
 Movements: is a string that determines the order of movements in the game, where R represents the Right, L for Lefrt, U for Up and D for Down.
